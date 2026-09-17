@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMachine.API", "FactoryMachine.API\FactoryMachine.API.csproj", "{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMachine.Win", "FactoryMachine.Win\FactoryMachine.Win.csproj", "{7B96A30A-02B3-4FF8-9462-7E384FA0749D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B96A30A-02B3-4FF8-9462-7E384FA0749D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B96A30A-02B3-4FF8-9462-7E384FA0749D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B96A30A-02B3-4FF8-9462-7E384FA0749D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B96A30A-02B3-4FF8-9462-7E384FA0749D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9709BBC6-2F0D-4A71-8D72-DC565F513A70}
+	EndGlobalSection
+EndGlobal
