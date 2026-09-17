@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaylee\\OneDrive\\Desktop\\PROG7312-ICE-Task-3\\ICETask3-PROG7312\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}|FactoryMachine.API\\FactoryMachine.API.csproj|c:\\users\\kaylee\\onedrive\\desktop\\prog7312-ice-task-3\\icetask3-prog7312\\factorymachine.api\\machinereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}|FactoryMachine.API\\FactoryMachine.API.csproj|solutionrelative:factorymachine.api\\machinereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}|FactoryMachine.API\\FactoryMachine.API.csproj|c:\\users\\kaylee\\onedrive\\desktop\\prog7312-ice-task-3\\icetask3-prog7312\\factorymachine.api\\telemetryreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}|FactoryMachine.API\\FactoryMachine.API.csproj|solutionrelative:factorymachine.api\\telemetryreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}|FactoryMachine.API\\FactoryMachine.API.csproj|c:\\users\\kaylee\\onedrive\\desktop\\prog7312-ice-task-3\\icetask3-prog7312\\factorymachine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A1439-E1DB-4113-9D1B-83A65A99DA86}|FactoryMachine.API\\FactoryMachine.API.csproj|solutionrelative:factorymachine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelemetryReading.cs",
+              "DocumentMoniker": "C:\\Users\\Kaylee\\OneDrive\\Desktop\\PROG7312-ICE-Task-3\\ICETask3-PROG7312\\FactoryMachine.API\\TelemetryReading.cs",
+              "RelativeDocumentMoniker": "FactoryMachine.API\\TelemetryReading.cs",
+              "ToolTip": "C:\\Users\\Kaylee\\OneDrive\\Desktop\\PROG7312-ICE-Task-3\\ICETask3-PROG7312\\FactoryMachine.API\\TelemetryReading.cs",
+              "RelativeToolTip": "FactoryMachine.API\\TelemetryReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T16:52:24.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MachineReading.cs",
+              "DocumentMoniker": "C:\\Users\\Kaylee\\OneDrive\\Desktop\\PROG7312-ICE-Task-3\\ICETask3-PROG7312\\FactoryMachine.API\\MachineReading.cs",
+              "RelativeDocumentMoniker": "FactoryMachine.API\\MachineReading.cs",
+              "ToolTip": "C:\\Users\\Kaylee\\OneDrive\\Desktop\\PROG7312-ICE-Task-3\\ICETask3-PROG7312\\FactoryMachine.API\\MachineReading.cs",
+              "RelativeToolTip": "FactoryMachine.API\\MachineReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T16:49:22.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaylee\\OneDrive\\Desktop\\PROG7312-ICE-Task-3\\ICETask3-PROG7312\\FactoryMachine.API\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMachine.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaylee\\OneDrive\\Desktop\\PROG7312-ICE-Task-3\\ICETask3-PROG7312\\FactoryMachine.API\\Program.cs",
+              "RelativeToolTip": "FactoryMachine.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T16:46:36.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
