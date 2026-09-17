@@ -1,0 +1,46 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "FactoryMachine.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/readings": {
+      "get": {
+        "tags": [
+          "FactoryMachine.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/anomalies": {
+      "get": {
+        "tags": [
+          "FactoryMachine.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/dashboard": {
+      "get": {
+        "tags": [
+          "FactoryMachine.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

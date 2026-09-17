@@ -44,6 +44,27 @@ app.MapGet("/api/anomalies", () =>
     });
 });
 
+app.MapGet("/api/dashboard", () =>
+{
+    readings = GenerateReadings(machines);
+
+    List<Anomaly> anomalies = DetectAnomalies(readings);
+
+    int totalAnomalies = CountAnomaliesRecursive(anomalies, 0);
+
+    MachineReading hottestMachine = FindHottestMachine(readings, 0);
+
+    return Results.Ok(new
+    {
+        Readings = readings,
+        Anomalies = anomalies,
+        TotalAnomalies = totalAnomalies,
+        HottestMachine = hottestMachine.MachineName
+    });
+});
+
+app.Run();
+
 app.Run();
  
 //Generate random values for machines 
@@ -156,22 +177,3 @@ MachineReading FindHottestMachine(List<MachineReading> readings, int index)
     return hottest;
 }
 
-
-app.MapGet("/api/dashboard", () =>
-{
-    readings = GenerateReadings(machines);
-
-    List<Anomaly> anomalies = DetectAnomalies(readings);
-
-    int totalAnomalies = CountAnomaliesRecursive(anomalies, 0);
-
-    MachineReading hottestMachine = FindHottestMachine(readings, 0);
-
-    return Results.Ok(new
-    {
-        Readings = readings,
-        Anomalies = anomalies,
-        TotalAnomalies = totalAnomalies,
-        HottestMachine = hottestMachine.MachineName
-    });
-});

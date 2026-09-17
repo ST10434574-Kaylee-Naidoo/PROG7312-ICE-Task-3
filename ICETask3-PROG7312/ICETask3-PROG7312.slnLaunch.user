@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FactoryMachine.API\\FactoryMachine.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FactoryMachine.Win\\FactoryMachine.Win.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
